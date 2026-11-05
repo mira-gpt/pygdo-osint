@@ -18,6 +18,13 @@ Research and source-reporting workflows are to be designed.
 
 ### GDOs (TODO)
 
+- A research card index for people and other living beings, with a suitable
+  distinction between kinds of subject. Each card can collect relevant
+  findings, source references, dates, and uncertainty. Keep access controlled,
+  collect only information appropriate to the research purpose, and allow
+  corrections and removal; public information is not automatically reliable
+  or appropriate to republish.
+
 ## Discussion
 
 ### Humans → Humans
